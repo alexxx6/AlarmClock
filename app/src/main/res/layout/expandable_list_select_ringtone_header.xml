@@ -1,0 +1,10 @@
+<TextView android:id="@+id/listTitle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+    android:paddingEnd="0dp"
+    android:textColor="@android:color/black"
+    android:paddingTop="@dimen/textView_padding"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:paddingBottom="@dimen/textView_padding"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

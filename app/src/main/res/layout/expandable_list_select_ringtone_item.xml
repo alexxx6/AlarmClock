@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_padding"
+    android:paddingStart="?android:attr/expandableListPreferredChildPaddingLeft"
+    android:paddingEnd="@dimen/activity_padding"
+    android:paddingTop="@dimen/activity_padding">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/ringtoneTextView"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:layout_marginEnd="@dimen/textView_marginRight" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton"
+        android:layout_gravity="end"
+        android:clickable="false"
+        android:focusable="false"
+        android:accessibilityLiveRegion="assertive"
+        android:layout_alignTop="@+id/ringtoneTextView"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

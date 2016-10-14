@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conditions">
+        <item>Tornado</item>
+        <item>Tropical storm</item>
+        <item>Hurricane</item>
+        <item>Severe thunderstorms</item>
+        <item>Thunderstorms</item>
+        <item>Mixed rain and snow</item>
+        <item>Mixed rain and sleet</item>
+        <item>Mixed snow and sleet</item>
+        <item>Freezing drizzle</item>
+        <item>Drizzle</item>
+        <item>Freezing rain</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Snow flurries</item>
+        <item>Light snow showers</item>
+        <item>Blowing snow</item>
+        <item>Snow</item>
+        <item>Hail</item>
+        <item>Sleet</item>
+        <item>Dust</item>
+        <item>Foggy</item>
+        <item>Haze</item>
+        <item>Smoky</item>
+        <item>Blustery</item>
+        <item>Windy</item>
+        <item>Cold</item>
+        <item>Cloudy</item>
+        <item>Mostly cloudy (night)</item>
+        <item>Mostly cloudy (day)</item>
+        <item>Partly cloudy (night)</item>
+        <item>Partly cloudy (day)</item>
+        <item>Clear (night)</item>
+        <item>Sunny</item>
+        <item>Fair (night)</item>
+        <item>Fair (day)</item>
+        <item>Mixed rain and hail</item>
+        <item>Hot</item>
+        <item>Isolated thunderstorms</item>
+        <item>Scattered thunderstorms</item>
+        <item>Scattered thunderstorms</item>
+        <item>Scattered showers</item>
+        <item>Heavy snow</item>
+        <item>Scattered snow showers</item>
+        <item>Heavy snow</item>
+        <item>Partly cloudy</item>
+        <item>Thundershowers</item>
+        <item>Snow showers</item>
+        <item>Isolated thundershowers</item>
+    </string-array>
+
+    <string-array name="day_of_week_abbreviation">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+</resources>

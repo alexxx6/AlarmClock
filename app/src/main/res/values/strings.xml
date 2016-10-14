@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ALEXXX`s Alarm Clock</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="alarm_on_off">Alarm On/Off</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="select_weather_conditions">Select Weather Conditions</string>
+    <string name="no_items">No Items</string>
+    <string name="alarm_dialog_text_msg">Get up! Get up! Get up!</string>
+    <string name="alarm_dialog_positive_btn_text">OK</string>
+    <string name="default_str">Default</string>
+    <string name="notification_title">Alarm</string>
+    <string name="read_external_storage_permission_denied_msg">Permission denied to read your External storage</string>
+    <string name="access_location_permission_denied_msg">Permission denied to access your location</string>
+    <string name="no_internet">No Internet</string>
+    <string name="repeatability">Repeatability</string>
+    <string name="repeatability_requirement">Please select day first</string>
+    <string name="add">Add</string>
+    <string name="db_error_msg">Error with database. Please try again</string>
+    <string name="img_description">Img</string>
+    <string name="exists_msg">Already exists alarm with this configuration</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ALEXXX`s Alarm Clock</string>
+    <string name="action_settings">Настройки</string>
+    <string name="save">Запиши</string>
+    <string name="cancel">Отказ</string>
+    <string name="alarm_on_off">Alarm On/Off</string>
+    <string name="ringtone">Рингтон</string>
+    <string name="select_weather_conditions">Избери Условия На Времето</string>
+    <string name="no_items">Няма Файлове</string>
+    <string name="alarm_dialog_text_msg">Ставайййййййййййййй :) !!!</string>
+    <string name="alarm_dialog_positive_btn_text">Ok</string>
+    <string name="default_str">Поподразбиране</string>
+    <string name="notification_title">Аларма</string>
+    <string name="read_external_storage_permission_denied_msg">Отказахте достапа до вашата външна памет</string>
+    <string name="access_location_permission_denied_msg">Отказахте достапа до вашето местоположение</string>
+    <string name="no_internet">Няма Интернет</string>
+    <string name="repeatability">Повторяемост</string>
+    <string name="repeatability_requirement">Моля първо изберете ден от седмиицата за повторяемост</string>
+    <string name="add">Добави</string>
+    <string name="db_error_msg">Възникна грешка! Моля опитайте отново</string>
+    <string name="img_description">Img</string>
+    <string name="exists_msg">Вече шъщществува аларма с тази конфигурация</string>
+</resources>

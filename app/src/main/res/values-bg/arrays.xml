@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conditions">
+        <item>Торнадо</item>
+        <item>Тропическа буря</item>
+        <item>Ураган</item>
+        <item>Тежки бури</item>
+        <item>Гръмотевични бури</item>
+        <item>Смесен дъжд и сняг</item>
+        <item>Смесен дъжд и суграшица</item>
+        <item>Смесен сняг и суграшица</item>
+        <item>Леден дъжд</item>
+        <item>Ръми</item>
+        <item>Замразяване дъжд</item>
+        <item>Душове</item>
+        <item>Душове</item>
+        <item>Снежни вихрушки</item>
+        <item>Леки снеговалежи</item>
+        <item>Издухване на сняг</item>
+        <item>Сняг</item>
+        <item>Градушка</item>
+        <item>Суграшица</item>
+        <item>Прах</item>
+        <item>Мъгливо</item>
+        <item>Мътност</item>
+        <item>Опушен</item>
+        <item>Бурен</item>
+        <item>Ветровито</item>
+        <item>Студено</item>
+        <item>Облачно</item>
+        <item>Предимно облачно (през нощта)</item>
+        <item>Предимно облачно (през деня)</item>
+        <item>Частично облачно (през нощта)</item>
+        <item>Частично облачно (ден)</item>
+        <item>Ясно (през нощта)</item>
+        <item>Слънчево</item>
+        <item>Справедлив (вечер)</item>
+        <item>Справедлив (ден)</item>
+        <item>Смесени дъжд и градушка</item>
+        <item>Горещи</item>
+        <item>Изолирани гръмотевични бури</item>
+        <item>Бури</item>
+        <item>Бури</item>
+        <item>Разпръснати душове</item>
+        <item>Тежък сняг</item>
+        <item>Разпръснати снеговалежи</item>
+        <item>Тежък сняг</item>
+        <item>Частично облачно</item>
+        <item>Гръмотевични</item>
+        <item>Снеговалежи</item>
+        <item>Изолирани гръмотевични бури</item>
+    </string-array>
+
+    <string-array name="day_of_week_abbreviation">
+        <item>Пон</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Четв</item>
+        <item>Пет</item>
+        <item>Съб</item>
+        <item>Нед</item>
+    </string-array>
+</resources>
